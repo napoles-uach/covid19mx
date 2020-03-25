@@ -301,19 +301,19 @@ caso, Estado, Sexo, Edad, Inicio, situacion, procedencia, llegada
 300, JALISCO, M, 40, 10/03/2020, confirmado, Estados Unidos, 07/03/2020
 301, JALISCO, M, 31, 18/03/2020, confirmado, Estados Unidos, 08/03/2020
 302, JALISCO, F, 38, 11/03/2020, confirmado, Estados Unidos, 07/03/2020
-303, JALISCO, M 32, 13/03/2020, confirmado, Estados Unidos, 02/03/2020
-304, JALISCO, M 30, 18/03/2020, confirmado, Estados Unidos, 09/03/2020
-305, COAHUILA, M 42, 18/03/2020, confirmado, Estados Unidos, 11/03/2020
-306, COAHUILA, M 11, 18/03/2020, confirmado, Estados Unidos, 11/03/2020
-307, COAHUILA, M 53, 17/03/2020, confirmado, Estados Unidos, 11/03/2020
-308, COAHUILA, M 42, 18/03/2020, confirmado, Estados Unidos, NA
-309, MÉXICO, M 46, 18/03/2020, confirmado, Contacto, NA
-310, MÉXICO, M 62, 16/03/2020, confirmado, España, 19/03/2020
-311, JALISCO, M 24, 17/03/2020, confirmado, Estados Unidos, 15/03/2020
-312, YUCATÁN, F 42, 18/03/2020, confirmado, Francia, 18/03/2020
-313, COAHUILA, F 30, 13/03/2020, confirmado, Estados Unidos, 18/03/2020
-314, HIDALGO, F 40, 19/03/2020, confirmado, Contacto, 13/03/2020
-315, NUEVO LEÓN, M 60, 14/03/2020, confirmado, España, 13/03/2020
+303, JALISCO, M, 32, 13/03/2020, confirmado, Estados Unidos, 02/03/2020
+304, JALISCO, M, 30, 18/03/2020, confirmado, Estados Unidos, 09/03/2020
+305, COAHUILA, M, 42, 18/03/2020, confirmado, Estados Unidos, 11/03/2020
+306, COAHUILA, M, 11, 18/03/2020, confirmado, Estados Unidos, 11/03/2020
+307, COAHUILA, M, 53, 17/03/2020, confirmado, Estados Unidos, 11/03/2020
+308, COAHUILA, M, 42, 18/03/2020, confirmado, Estados Unidos, NA
+309, MÉXICO, M, 46, 18/03/2020, confirmado, Contacto, NA
+310, MÉXICO, M, 62, 16/03/2020, confirmado, España, 19/03/2020
+311, JALISCO, M, 24, 17/03/2020, confirmado, Estados Unidos, 15/03/2020
+312, YUCATÁN, F, 42, 18/03/2020, confirmado, Francia, 18/03/2020
+313, COAHUILA, F, 30, 13/03/2020, confirmado, Estados Unidos, 18/03/2020
+314, HIDALGO, F, 40, 19/03/2020, confirmado, Contacto, 13/03/2020
+315, NUEVO LEÓN, M, 60, 14/03/2020, confirmado, España, 13/03/2020
 316, OAXACA, M, 22, 16/03/2020, confirmado, Contacto, NA
 317, NUEVO LEÓN, M, 57, 13/03/2020, confirmado, Estados Unidos, 12/03/2020
 318, NUEVO LEÓN, M, 22, 14/03/2020, confirmado, Estados Unidos, 13/03/2020
