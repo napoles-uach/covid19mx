@@ -37,7 +37,7 @@ caso, Estado, Sexo, Edad, Inicio, situacion, procedencia, llegada
 36, CIUDAD DE MÉXICO, F, 62, 11/03/2020, confirmado, Estados Unidos, 08/03/2020
 37, CIUDAD DE MÉXICO, M, 72, 09/03/2020, confirmado, Estados Unidos, 07/03/2020
 38, CIUDAD DE MÉXICO, M, 41, 10/03/2020, confirmado, España, 08/03/2020
-39, PUEBLA, M, 30, 09/03/2020 confirmado, España, 09/03/2020
+39, PUEBLA, M, 30, 09/03/2020, confirmado, España, 09/03/2020
 40, CIUDAD DE MÉXICO, M, 38, 11/03/2020 confirmado, Contacto, NA
 41, OAXACA, F, 30, 09/03/2020 confirmado, España, 09/03/2020
 42, SINALOA, M, 25, 09/03/2020, confirmado, Estados Unidos, 13/03/2020
