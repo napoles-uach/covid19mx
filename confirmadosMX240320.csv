@@ -20,7 +20,7 @@ caso, Estado, Sexo, Edad, Inicio, situacion, procedencia, llegada
 19, QUERETARO, F, 43, 11/03/2020, confirmado, Contacto, NA
 20, PUEBLA, M, 31, 05/03/2020, confirmado, España, 09/03/2020
 21, CIUDAD DE MÉXICO, M, 37, 11/03/2020, confirmado, Italia, 11/03/2020
-22, YUCATÁN, F, 57, 07/03/2020, confirmado España, 06/03/2020
+22, YUCATÁN, F, 57, 07/03/2020, confirmado, España, 06/03/2020
 23, CIUDAD DE MÉXICO, M, 52, 08/03/2020, confirmado, España, 08/03/2020
 24, CIUDAD DE MÉXICO, M, 64, 10/03/2020, confirmado, Contacto, 10/03/2020
 25, CIUDAD DE MÉXICO, M, 68, 04/03/2020, confirmado, España, 10/03/2020
