@@ -1,4 +1,4 @@
-,,,,,,,
+caso, Estado, Sexo, Edad, Inicio, situacion, procedencia, llegada
  1 ,CIUDAD DE MÉXICO ,M ,35,22/02/20,confirmado ,Italia ,22/02/20
 2,SINALOA ,M ,41,22/02/20,confirmado ,Italia ,21/02/20
 3,CIUDAD DE MÉXICO ,M ,59,23/02/20,confirmado ,Italia ,22/02/20
