@@ -1,3 +1,4 @@
+caso, Estado, Sexo, Edad, Inicio, situacion, procedencia, llegada
 1,CIUDAD DE MÉXICO,M,35,22/02/2020,confirmado,Italia,22/02/2020
 2,SINALOA,M,41,22/02/2020,confirmado,Italia,21/02/2020
 3,CIUDAD DE MÉXICO,M,59,23/02/2020,confirmado,Italia,22/02/2020
@@ -991,5 +992,3 @@
 991,OAXACA,M,44,26/03/2020,confirmado,Estados Unidos,15/03/2020
 992,BAJA CALIFORNIA SUR,M,50,21/03/2020,confirmado,España,16/03/2020
 993,COAHUILA,M,47,16/03/2020,confirmado,Contacto,NA
-"Fuente: SINAVE/DGE/InDRE F: Femenino M: Masculino
-Corte: 29 de Marzo del 2020 a las 13:00 horas",,,,,,,

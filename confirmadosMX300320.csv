@@ -1,5 +1,4 @@
-N° Caso,Estado,Sexo,Edad,Fecha de Inicio de síntomas,"Identificación de COVID-19
-por RT-PCR en tiempo real",Procedencia,Fecha del llegada a México
+caso, Estado, Sexo, Edad, Inicio, situacion, procedencia, llegada
 1,CIUDAD DE MÉXICO,M,35,22/02/2020,confirmado,Italia,22/02/2020
 2,SINALOA,M,41,22/02/2020,confirmado,Italia,21/02/2020
 3,CIUDAD DE MÉXICO,M,59,23/02/2020,confirmado,Italia,22/02/2020
@@ -1094,5 +1093,3 @@ por RT-PCR en tiempo real",Procedencia,Fecha del llegada a México
 1092,CIUDAD DE MÉXICO,F,43,16/03/2020,confirmado,España,16/03/2020
 1093,CIUDAD DE MÉXICO,M,47,14/03/2020,confirmado,Contacto,NA
 1094,JALISCO,M,37,20/03/2020,confirmado,Contacto,NA
-"Fuente: SINAVE/DGE/InDRE F: Femenino M: Masculino
-Corte: 30 de Marzo del 2020 a las 13:00 horas",,,,,,,

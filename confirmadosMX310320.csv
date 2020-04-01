@@ -1,3 +1,4 @@
+caso, Estado, Sexo, Edad, Inicio, situacion, procedencia, llegada
 1,CIUDAD DE MÉXICO,M,35,22/02/2020,confirmado,Italia,22/02/2020
 2,SINALOA,M,41,22/02/2020,confirmado,Italia,21/02/2020
 3,CIUDAD DE MÉXICO,M,59,23/02/2020,confirmado,Italia,22/02/2020
@@ -1213,5 +1214,3 @@
 1213,CIUDAD DE MÉXICO,M,49,14/03/2020,confirmado,Estados Unidos,09/03/2020
 1214,JALISCO,F,38,18/03/2020,confirmado,Estados Unidos,14/03/2020
 1215,JALISCO,M,39,21/03/2020,confirmado,Francia,16/03/2020
-"Fuente: SINAVE/DGE/InDRE F: Femenino M: Masculino
-Corte: 31 de Marzo del 2020 a las 13:00 horas",,,,,,,

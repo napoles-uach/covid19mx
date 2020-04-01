@@ -22,7 +22,7 @@ caso, Estado, Sexo, Edad, Inicio, situacion, procedencia, llegada
 21,CIUDAD DE MÉXICO,M,37,11/03/2020,confirmado,Italia,11/03/2020
 22,YUCATÁN,F,57,07/03/2020,confirmado,España,06/03/2020
 23,CIUDAD DE MÉXICO,M,52,08/03/2020,confirmado,España,08/03/2020
-24,CIUDAD DE MÉXICO,M,64,10/03/2020,confirmado,"Contacto, Cuba",10/03/2020
+24,CIUDAD DE MÉXICO,M,64,10/03/2020,confirmado,Contacto Cuba,10/03/2020
 25,CIUDAD DE MÉXICO,M,68,04/03/2020,confirmado,España,10/03/2020
 26,QUINTANA ROO,F,71,01/03/2020,confirmado,Italia,01/03/2020
 27,SAN LUIS POTOSÍ,F,53,11/03/2020,confirmado,España,10/03/2020
