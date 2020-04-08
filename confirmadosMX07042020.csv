@@ -1,4 +1,4 @@
-caso, Estado, Sexo, Edad, Inicio, situacion, procedencia, llegada
+caso, Estado, Sexo, Edad, Inicio, situacion, procedencia
 1,CIUDAD DE MÉXICO,MASCULINO,40,17/03/2020,Confirmado,NA
 2,CIUDAD DE MÉXICO,FEMENINO,29,26/03/2020,Confirmado,NA
 3,MÉXICO,FEMENINO,84,26/03/2020,Confirmado,NA
